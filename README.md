@@ -6,6 +6,18 @@ A full-stack simulation system that models 5 marketing campaigns as bandit arms 
 
 ---
 
+## Demo
+
+![GIF](assets/gif.gif)
+---
+![Home](assets/home.png)
+---
+![Simulation](assets/simulation.png)
+---
+![Simulation2](assets/simulation2.png)
+
+---
+
 ## The Problem
 
 You have 5 campaign variants (email subjects, ad creatives, landing pages), each with an unknown conversion rate. Given a limited budget of T interactions, how do you maximize conversions?
